@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Empregado {
+	public static void main(String[] args) {
+		EmpregadoTeste f1;
+		f1 = new EmpregadoTeste();
+		
+		f1.dados();
+		
+		
+	}
+	
+	
+	
+	
+}

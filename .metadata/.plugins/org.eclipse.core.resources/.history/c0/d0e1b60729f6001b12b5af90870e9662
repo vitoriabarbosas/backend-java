@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Empregado {
+	
+	
+	String nome, cargo, racf;
+	double salario;
+	
+	void dados() {
+	System.out.println("Insira seu nome: ");
+	Scanner valor = new Scanner(System.in);
+	nome = valor.next();	
+	System.out.println("Insira seu cargo: ");
+	Scanner valor1 = new Scanner(System.in);
+	cargo = valor1.next();
+	System.out.println("Insira sua média salarial: ");
+	Scanner valor2 = new Scanner(System.in);
+	salario = valor2.nextDouble();
+	}
+}
