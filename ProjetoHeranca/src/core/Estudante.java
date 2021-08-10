@@ -24,5 +24,5 @@ public class Estudante extends Pessoa {
 		this.curso = curso;
 	}
 	
-	
+	 
 }

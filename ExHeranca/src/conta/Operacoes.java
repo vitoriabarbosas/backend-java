@@ -7,7 +7,7 @@ public class Operacoes  extends DadosConta {
 		// TODO Auto-generated constructor stub
 	}
 
-	float valor; 
+	float valor;  
 	
 	// debitar
 	public float sacar(float valor) {
